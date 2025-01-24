@@ -24,6 +24,17 @@ class ProductManager:
         
 me = ProductManager()
 print(me.introduce())
+
 🛠️ Tools & Skills
 
-<div align="center"> <img src="https://img.shields.io/badge/-Python-000?style=flat&logo=python" /> <img src="https://img.shields.io/badge/-SQL-000?style=flat&logo=mysql" /> <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" /> <img src="https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/-HuggingFace-FFD000?style=flat&logo=huggingface&logoColor=black" /> <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/-JIRA-0052CC?style=flat&logo=jira&logoColor=white" /> </div>
+<div align="center">
+  <img src="https://img.shields.io/badge/-Python-000?style=flat&logo=python" />
+  <img src="https://img.shields.io/badge/-SQL-000?style=flat&logo=mysql" />
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HuggingFace-FFD000?style=flat&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JIRA-0052CC?style=flat&logo=jira&logoColor=white" />
+</div>
