@@ -30,7 +30,8 @@ class ProductManager:
 me = ProductManager()
 print(me.introduce())
 ```
-🛠️ Tools & Skills
+
+## 🛠️ Tools & Skills
 
 <div align="center">
   <img src="https://img.shields.io/badge/-Python-000?style=flat&logo=python" />
