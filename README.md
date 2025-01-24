@@ -9,6 +9,11 @@ A Product Manager passionate about creating impactful AI solutions and innovativ
 
 ---
 
+You are visitor number:  
+
+<img src="https://profile-counter.glitch.me/riyanshibohra/count.svg" alt="Visitor Count" />
+
+
 ## 💡 About Me
 
 ```python
