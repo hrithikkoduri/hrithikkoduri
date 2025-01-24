@@ -24,7 +24,7 @@ class ProductManager:
         
 me = ProductManager()
 print(me.introduce())
-
+```
 🛠️ Tools & Skills
 
 <div align="center">
@@ -38,3 +38,4 @@ print(me.introduce())
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/-JIRA-0052CC?style=flat&logo=jira&logoColor=white" />
 </div>
+
