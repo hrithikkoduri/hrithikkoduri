@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff87,100:60efff&height=200&section=header&text=Hrithik%20Koduri&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=AI%20Product%20Manager%20|%20Tech%20Innovator&descSize=20&descAlignY=55"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:10B981&height=200&section=header&text=Hrithik%20Koduri&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=AI%20Product%20Manager%20|%20Tech%20Innovator&descSize=20&descAlignY=55"/>
 </div>
 
 <div align="center">
@@ -19,7 +19,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF87&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=500&height=100&lines=Turning+Coffee+into+AI+Solutions;One+Model+at+a+Time+☕" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=500&height=100&lines=Turning+Coffee+into+AI+Solutions;One+Model+at+a+Time+☕" />
 </div>
 
 You are visitor number:  
@@ -132,5 +132,5 @@ class AIProductManager:
 
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:60efff,100:00ff87&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,100:3B82F6&height=100&section=footer"/>
 </div>
