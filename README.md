@@ -22,11 +22,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=500&height=100&lines=Turning+Coffee+into+AI+Solutions;One+Model+at+a+Time+☕" />
 </div>
 
-You are visitor number:  
-
-<img src="https://profile-counter.glitch.me/riyanshibohra/count.svg" alt="Visitor Count" />
-
-<br/>
 
 ## 🚀 About Me
 
