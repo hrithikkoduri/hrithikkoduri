@@ -9,7 +9,7 @@
   <a href="https://linkedin.com/in/hrithikkoduri">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
   </a>
-  <a href="your-portfolio-link">
+  <a href="https://www.hrithikkoduri.com/">
     <img src="https://img.shields.io/badge/Portfolio-FF3E00.svg?style=for-the-badge&logo=Safari&logoColor=white"/>
   </a>
 </div>
